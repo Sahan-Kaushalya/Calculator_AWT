@@ -1,0 +1,14 @@
+Cal
+Calculator$1
+Calculator$2
+Calculator$3
+Calculator$4
+Calculator$5
+Calculator
+Calulator$5
+Calulator
+Calulator$1
+close
+Calulator$2
+Calulator$3
+Calulator$4
